@@ -2,10 +2,10 @@
 
 I'm a software engineer from The Netherlands. Although I consider myself a full-stack developer, my main focus is toward back-end development. Vim and Rust enthousiast by night.
 
-- 🔭 I’m currently working on Binsend and several other projects.
-- 🌱 I’m currently learning loads of things!
+- 🔭 I’m currently working on industrial solutions at Baseflow (custom SCADA/HMI appliances for the industrial domain).
+- 🌱 I’m currently learning loads of things regarding Rust, Go and Functional Programming.
 - 👯 I’m looking to collaborate on projects that make every day work flows more interesting.
-- 💬 Ask me about C#, Docker, .NET
+- 💬 Ask me about C#, Rust, Docker, .NET
 - 📫 How to reach me:<br/>
 	![GitHub follow](https://img.shields.io/github/followers/tluijken?label=Follow&style=social)
 	![Twitter Follow](https://img.shields.io/twitter/follow/volittech?style=social)
